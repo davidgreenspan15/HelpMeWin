@@ -6,7 +6,7 @@ Programmers can input there info to purchase on their own
 
 All programs are in their first stage, meaning that there are some bugs and sometimes one needs to do some self tinkering.
 
-Please feel free to submit any improvemewnts to the programs or any other sites that you have built!
+Please feel free to submit any improvements to the programs or any other sites that you have built!
 
 More sites with different languages will be added shortly
 
